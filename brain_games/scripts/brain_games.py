@@ -1,9 +1,10 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 """Brain Games entry point."""
 
+from brain_games.cli import welcome_user
+
 def main():
-    """Main function of the game."""
-    print("Welcome to the Brain Games!")
+    welcome_user()
 
 if __name__ == "__main__":
     main()
