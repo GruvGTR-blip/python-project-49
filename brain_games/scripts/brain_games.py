@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Brain Games entry point."""
+
 
 from brain_games.cli import welcome_user
 
