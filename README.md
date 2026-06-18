@@ -4,3 +4,7 @@
 ## Демонстрация "Калькулятор"
 
 [![asciicast](https://asciinema.org/a/xjQJH2Q8GDx7NNYQ.svg)](https://asciinema.org/a/xjQJH2Q8GDx7NNYQ)
+
+## Демонстрация игры "НОД"
+
+[![asciicast](https://asciinema.org/a/KJmnJNjMNuSRca0s.svg)](https://asciinema.org/a/KJmnJNjMNuSRca0s)
