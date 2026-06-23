@@ -8,3 +8,7 @@
 ## Демонстрация игры "НОД"
 
 [![asciicast](https://asciinema.org/a/KJmnJNjMNuSRca0s.svg)](https://asciinema.org/a/KJmnJNjMNuSRca0s)
+
+## Демонстрация игры "Арифметическая прогрессия"
+
+[![asciicast](https://asciinema.org/a/4d8mG978vw2HovdY.svg)](https://asciinema.org/a/4d8mG978vw2HovdY)
