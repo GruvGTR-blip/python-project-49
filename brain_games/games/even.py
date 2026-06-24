@@ -19,7 +19,7 @@ def run_even(name):
             index += 1
         else:
             print(f'"{answer_user}" is wrong answer ;(. Correct answer was "{right_answer}".')
-            print(f'Let's try again, {name}!')
+            print(f"Let's try again, {name}!")
             return
 
     print(f'Congratulations, {name}!')
